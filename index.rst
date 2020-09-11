@@ -3,7 +3,7 @@
    :keywords: dash, cryptocurrency, blockchain, documentation, guide, masternodes, mining, wallets, merchants, governance, instantsend, privatesend, x11, instant, private, secure, digital cash
 
 ==================
-Dash Documentation
+Kyan Documentation
 ==================
 
 .. image:: img/dash_logo.png
